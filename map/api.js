@@ -1,0 +1,1 @@
+(function(){ window.BMap_loadScriptTime = (new Date).getTime(); document.write('<script type="text/javascript" src="map/main.js"></script>');document.write('<link rel="stylesheet" type="text/css" href="map/map.css"/>');})();
